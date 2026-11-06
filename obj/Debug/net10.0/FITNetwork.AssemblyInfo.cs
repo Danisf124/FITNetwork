@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FITNetwork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c116d2a34ac3e58ab9432203ce8466c7e2260f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FITNetwork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FITNetwork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
